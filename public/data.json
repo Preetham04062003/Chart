@@ -1,0 +1,195 @@
+[
+    {
+      "month": "January",
+      "year": 2023,
+      "cost": 500,
+      "cost1":3300,
+      "cost2": 1500,
+      "cost3":500
+
+    },
+    {
+      "month": "February",
+      "year": 2023,
+      "cost": 1000,
+      "cost1":2000,
+      "cost2": 1500,
+      "cost3":2000
+    },
+    {
+      "month": "March",
+      "year": 2023,
+      "cost": 800,
+      "cost1":400,
+      "cost2": 1500,
+      "cost3":900
+    },
+    {
+      "month": "April",
+      "year": 2023,
+      "cost": 800,
+      "cost1":1600,
+      "cost2": 1500,
+      "cost3":200
+    },
+    {
+      "month": "May",
+      "year": 2023,
+      "cost": 900,
+      "cost1":600,
+      "cost2": 1500,
+      "cost3":900
+    },
+    {
+      "month": "June",
+      "year": 2023,
+      "cost": 500,
+      "cost1":300,
+      "cost2": 1500,
+      "cost3":900
+    },
+    {
+      "month": "July",
+      "year": 2023,
+      "cost": 1700,
+      "cost1":900,
+      "cost2": 1500,
+      "cost3":1000
+    },
+    {
+      "month": "August",
+      "year": 2023,
+      "cost": 1300,
+      "cost1":1100,
+      "cost2": 1500,
+      "cost3":400
+    },
+    {
+      "month": "September",
+      "year": 2023,
+      "cost": 1600,
+      "cost1":100,
+      "cost2": 1500,
+      "cost3":400
+    },
+    {
+      "month": "October",
+      "year": 2023,
+      "cost": 1400,
+      "cost1":500,
+      "cost2": 1500,
+      "cost3":300
+    },
+    {
+      "month": "November",
+      "year": 2023,
+      "cost": 1000,
+      "cost1":600,
+      "cost2": 1500,
+      "cost3":200
+    },
+    {
+      "month": "December",
+      "year": 2023,
+      "cost": 1500,
+      "cost1":200,
+      "cost2": 1500,
+      "cost3":900
+    },
+    {
+      "month": "January",
+      "year": 2024,
+      "cost": 500,
+      "cost1":200,
+      "cost2": 1500,
+      "cost3":800
+    },
+    {
+      "month": "February",
+      "year": 2024,
+      "cost": 1000,
+      "cost1":500,
+      "cost2": 1500,
+      "cost3":500
+    },
+    {
+      "month": "March",
+      "year": 2024,
+      "cost": 800,
+      "cost1":900,
+      "cost2": 1500,
+      "cost3":500
+    },
+    {
+      "month": "April",
+      "year": 2024,
+      "cost": 1200,
+      "cost1":1100,
+      "cost2": 1500,
+      "cost3":200
+    },
+    {
+      "month": "May",
+      "year": 2024,
+      "cost": 900,
+      "cost1":400,
+      "cost2": 1500,
+      "cost3":300
+    },
+    {
+      "month": "June",
+      "year": 2024,
+      "cost": 1100,
+      "cost1":1300,
+      "cost2": 1500,
+      "cost3":400
+    },
+    {
+      "month": "July",
+      "year": 2024,
+      "cost": 700,
+      "cost1":1500,
+      "cost2": 1500,
+      "cost3":200
+    },
+    {
+      "month": "August",
+      "year": 2024,
+      "cost": 1300,
+      "cost1":100,
+      "cost2": 1500,
+      "cost3":700
+    },
+    {
+      "month": "September",
+      "year": 2024,
+      "cost": 600,
+      "cost1":1100,
+      "cost2": 1500,
+      "cost3":900
+    },
+    {
+      "month": "October",
+      "year": 2024,
+      "cost": 1400,
+      "cost1":400,
+      "cost2": 1500,
+      "cost3":800
+    },
+    {
+      "month": "November",
+      "year": 2024,
+      "cost": 1000,
+      "cost1":100,
+      "cost2": 1500,
+      "cost3":700
+    },
+    {
+      "month": "December",
+      "year": 2024,
+      "cost": 1500,
+      "cost1":800,
+      "cost2": 1500,
+      "cost3":900
+    }
+  ]
